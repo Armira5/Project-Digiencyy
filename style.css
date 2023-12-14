@@ -1276,6 +1276,10 @@ p {
   }
 }
 @media (max-width: 992px) {
+  .block {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
   .block--cs__hover {
     top: 25px;
     bottom: 25px;
@@ -1478,6 +1482,10 @@ p {
     }
   }
   @media (max-width: 606px) {
+    .block {
+      padding-top: 60px;
+      padding-bottom: 60px;
+    }
     .block--footer__about {
       display: flex;
       flex-direction: column;
